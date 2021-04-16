@@ -1,14 +1,14 @@
 # Programming in R
 ## Homework Task I -- git and GitHub
 
-This is your first homework task. Since it will not be graded there is no deadline. Nevertheless, we strongly encourage you to try out this task, both to get to know the homework task format and to get to know git. All the following tasks will assume that you know how to use `git` and *GitHub*.
+This is your first homework task. Since it will not be graded there is no deadline. Nevertheless, we strongly encourage you to try out this task, both to get to know the homework task format and to get to know git. All the following tasks will assume that you know how to use `git` and *GitHub*. Test
 
 ## Information Material
 
 * [Slides](ProgR_01_Intro.pdf)
 * Recommended resources
   * **[Software Carpentry Git Course](https://swcarpentry.github.io/git-novice/)**: A very good and thorough first `git` course that teaches how to use `git` from the command line. It is strongly recommended that you know the command line `git`, since you will understand what is going on under the hood even when using other tools. Expected reading time: 3 hours.
-  * **[Happy Git with R](https://happygitwithr.com/index.html)**: A course of `git`, *GitHub*, and *RStudio*. This will teach you how to use all your tools together efficiently. 
+  * **[Happy Git with R](https://happygitwithr.com/index.html)**: A course of `git`, *GitHub*, and *RStudio*. This will teach you how to use all your tools together efficiently. Dieser Satz ist von mir.
 * Additional resources
   * **[Git Immersion](http://gitimmersion.com/index.html)**: Similar to the "*Software Carpentry Git Course*" but with less explanation.
   * **[Git and GitHub](http://r-pkgs.had.co.nz/git.html)** by Hadley Wickham: A quick intro on how to use `git`, *GitHub*, and *RStudio* that is shorter than "*Happy Git with R*" above and may be for you if you are a quick learner.
@@ -33,10 +33,10 @@ You will very likely not be able to do this unless you read a good part of at le
 5. Combine all the different branches into the master branch. You will get at least one "merge conflict", which you have to resolve intelligently: consider which of the conflicting edits is more "valuable". Note that you should not blindly merge all branches you find, because some branches are "parents" of other branches.
 
 ### After You Merge
-6. Can you find out what part of the resulting code was created by what character? You could browse commits in *GitHub*, you could use *GitHub*'s "blame" function, and you can use `git blame`. Get familiar with all of them.
+6. Can you find out what part of the resulting code was created by what character? You could browse commits in *GitHub*, you could use *GitHub*'s "blame" function, and you can use `git blame`. Get familiar with all of them. Test 3.0
 
 ### Rendering
-7. You whould now be able to load `sierpinski.Rmd` in your RStudio session and render it, getting a nice animation. Your result should look like this:
+7. You whould now be able to load `sierpinski.Rmd` in your RStudio session and render it, getting a nice animation. Your result should look like this: Test 4.0
 
   ![Sierpinski Triangle](sier.png)
 
